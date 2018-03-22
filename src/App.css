@@ -1,0 +1,78 @@
+.contain-button{
+  margin-top: 30px;
+  font-family: 'lato';
+}
+
+.contain-button p{
+  font-size: 1.5em;
+}
+
+.contain-button h2{
+  font-weight: 600;
+  display: inline-block;
+  border-bottom: 3px solid #ffe521;
+  padding-bottom: 0.6%;
+}
+
+.contain-btn h3, .contain-btn h4{
+  margin: 20px 0px 10px 0px;
+}
+
+.but-small{
+  background-color: #ffe521;
+  border:1px solid #ffe521;
+  color:#000;
+  font-family: 'Open Sans';
+  font-size: 1.5em;
+  font-weight: 700;
+  margin:1em 3em 1em 0em;
+  padding: 0.5em 1em;
+}
+
+.but-medium{
+  background-color: #ffe521;
+  border:1px solid #ffe521;
+  color:#000;
+  font-family: 'Open Sans';
+  font-size: 2em;
+  font-weight: 700;
+  margin:1em 3em 1em 0em;
+  padding: 0.5em 1em;
+}
+
+.but-large{
+  background-color: #ffe521;
+  border:1px solid #ffe521;
+  color:#000;
+  font-family: 'Open Sans';
+  font-size: 2.5em;
+  font-weight: 700;
+  margin:1em 3em 1em 0em;
+  padding: 0.5em 1em;
+}
+
+.but-default, .but-chage, .but-active{
+  background-color: #ffe521;
+  border:1px solid #ffe521;
+  color:#000;
+  font-family: 'Open Sans';
+  font-size: 1.5em;
+  font-weight: 700;
+  margin:1em 3em 1em 0em;
+  padding: 0.5em 1em;
+}
+
+.code{
+  font-size: 1.5em;
+}
+.but-chage:hover {
+  background-color: #fff;
+  border:1px solid #ffe521;
+  color:#ffe521;
+}
+.but-active:focus{
+  background-color: #ff009e;
+  border:1px solid #ff009e;
+  color:#fff;
+  outline: #ff009e;
+}
