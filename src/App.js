@@ -5,6 +5,8 @@ import Form from './components/Form/Form';
 import Text from './components/Text/Text';
 import Colors from './components/Colors/Colors';
 import Footer from './components/Footer/Footer';
+import Image from './components/Image/Image';
+import Card from './components/Card/Card';
 
 import './App.css';
 
@@ -21,13 +23,13 @@ class App extends Component {
         <Text></Text>
         <Colors></Colors>
         <Footer></Footer>
-        
+        <Image></Image>
+        <Card></Card>
 
-        
+
       </div>
     );
   }
 }
 
 export default App;
-
