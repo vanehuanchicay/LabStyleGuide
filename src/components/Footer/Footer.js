@@ -14,6 +14,7 @@ const Footer = () => (
       </div>
       <div className='row contain-foot'>
         <div className='col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2'>
+          <h3>Visualización</h3>
           <div className='row footer '>
             <div className='col-md-7 col-md-offset-1 col-lg-7 col-lg-offset-1'>
               <img className="logo-footer" src={ logolab } alt="logo"/>

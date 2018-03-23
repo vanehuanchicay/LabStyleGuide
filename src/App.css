@@ -3,18 +3,18 @@
   font-family: 'lato';
 }
 
-.contain-button p, .contain-footer p{
+.contain-button p, .contain-footer p, .contain-text p, .contain-colors p{
   font-size: 1.5em;
 }
 
-.contain-button h2, .contain-footer h2{
+.contain-button h2, .contain-footer h2, .contain-text h2, .contain-colors h2{
   font-weight: 600;
   display: inline-block;
   border-bottom: 3px solid #ffe521;
   padding-bottom: 0.6%;
 }
 
-.contain-btn h3, .contain-btn h4, .contain-cod h4{
+.contain-btn h3, .contain-btn h4, .contain-cod h4, .contain-text h3, .contain-colors h3{
   margin: 20px 0px 10px 0px;
 }
 
@@ -114,4 +114,107 @@ form{
   margin: 60px 0px 30px 0px;
 }
 
+.title{
+  font-family: 'Bitter';
+  font-size: 36px;
+  margin-top: 50px;
+}
+.subtitle{
+  font-family: 'Open Sans';
+  font-size: 18px;
+  font-weight: 700;
+  margin-top: 20px;
+}
+
+.parraf{
+  font-family: 'Open Sans';
+  font-size: 12px;
+}
+
+.cont-black{
+  width: 100px;
+  height: 100px;
+  background-color: #000;
+}
+
+.cont-white{
+  width: 100px;
+  height: 100px;
+  background-color: #fff;
+  border:1px solid  rgba(0, 0, 0, 0.1);
+}
+
+.cont-yellow{
+  width: 100px;
+  height: 100px;
+  background-color: #FFE521;
+}
+
+.cont-magenta{
+  width: 100px;
+  height: 100px;
+  background-color: #FF009E;
+}
+
+.cont-cyan{
+  width: 100px;
+  height: 100px;
+  background-color: #56F89A;
+}
+
+.cont-col{
+   margin:30px 17px 0px 0px;
+}
+
+.navbar-menu{
+  background-color: #000;
+  margin-bottom: 30px;
+}
+
+.navbar-menu-blank{
+  border:1px solid  rgba(0, 0, 0, 0.1);
+}
+
+.logo-navbar{
+  width: 120px;
+  margin:16px 0px 10px 0px;
+}
+.logo-navbar-blank{
+  width: 120px;
+  margin:18px 0px 8px 0px;
+}
+
+.menu li{
+  list-style: none;
+  display: inline-block;
+  font-family: 'Open Sans';
+  font-size: 12px;
+  font-weight: 700;
+  margin:18px 18px 10px 0px;
+}
+
+.menu a{
+  color:#fff;
+}
+
+.menu a:hover{
+  color:#FFE521;
+}
+
+.menu-blank li{
+  list-style: none;
+  display: inline-block;
+  font-family: 'Open Sans';
+  font-size: 12px;
+  font-weight: 700;
+  margin:18px 18px 10px 0px;
+}
+
+.menu-blank a{
+  color:#000;
+}
+
+.menu-blank a:hover{
+  color:#FFE521;
+}
 

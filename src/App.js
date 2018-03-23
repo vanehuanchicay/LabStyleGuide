@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import NavBar from './components/NavBar/NavBar';
 import Buttons from './components/Buttons/Buttons';
 import Form from './components/Form/Form';
+import Text from './components/Text/Text';
+import Colors from './components/Colors/Colors';
 import Footer from './components/Footer/Footer';
 
 import './App.css';
@@ -16,6 +18,8 @@ class App extends Component {
         <NavBar></NavBar>
         <Buttons></Buttons>
         <Form></Form>
+        <Text></Text>
+        <Colors></Colors>
         <Footer></Footer>
         
 
