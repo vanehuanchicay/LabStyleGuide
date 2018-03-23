@@ -52,12 +52,12 @@ class Buttons extends Component {
 							<div className='row'>
 								<div className='col-md-12'>
 									<h4>Codigo</h4>
-									<figure class="highlight">
+									<figure className="highlight">
 										<pre>
-											<code class="language-html" data-lang="html">
-												<span class="code">&lt;button className='but-small sm' type='sumbit'&gt;&lt;/button&gt;</span><br/>
-												<span class="code">&lt;button className='but-medium sm' type='sumbit'&gt;&lt;/button&gt;</span><br/>
-												<span class="code">&lt;button className='but-large sm' type='sumbit'&gt;&lt;/button&gt;</span>
+											<code className="language-html" data-lang="html">
+												<span className="code">&lt;button className='but-small sm' type='sumbit'&gt;&lt;/button&gt;</span><br/>
+												<span className="code">&lt;button className='but-medium sm' type='sumbit'&gt;&lt;/button&gt;</span><br/>
+												<span className="code">&lt;button className='but-large sm' type='sumbit'&gt;&lt;/button&gt;</span>
 											</code>
 										</pre>
 									</figure>
@@ -80,12 +80,12 @@ class Buttons extends Component {
 							<div className='row'>
 								<div className='col-md-12'>
 									<h4>Codigo</h4>
-									<figure class="highlight">
+									<figure className="highlight">
 										<pre>
-											<code class="language-html" data-lang="html">
-												<span class="code">&lt;button className='but-default' type='sumbit' onClick={this.default}&gt;{this.state.styles1}&lt;/button&gt;</span><br/>
-												<span class="code">&lt;button className='but-change' type='sumbit' onClick={this.default}&gt;{this.state.styles1}&lt;/button&gt;</span><br/>
-												<span class="code">&lt;button className='but-active' type='sumbit' onClick={this.default}&gt;{this.state.styles1}&lt;/button&gt;</span><br/>
+											<code className="language-html" data-lang="html">
+												<span className="code">&lt;button className='but-default' type='sumbit' onClick={this.default}&gt;{this.state.styles1}&lt;/button&gt;</span><br/>
+												<span className="code">&lt;button className='but-change' type='sumbit' onClick={this.default}&gt;{this.state.styles1}&lt;/button&gt;</span><br/>
+												<span className="code">&lt;button className='but-active' type='sumbit' onClick={this.default}&gt;{this.state.styles1}&lt;/button&gt;</span><br/>
 												
 											</code>
 										</pre>
