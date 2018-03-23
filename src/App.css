@@ -77,6 +77,22 @@
   outline: #ff009e;
 }
 
+input{
+  width: 30%;
+}
+h5{
+  padding-bottom: %;
+}
+select{
+  background-color: transparent;
+  width: 30%;
+  padding: 0.4%;
+}
+form{
+  font-size: 118%;
+  width: 150%;
+}
+
 .logo-footer{
   width: 140px;
   margin:30px 0px 15px 0px;
@@ -97,4 +113,5 @@
 .foo-cont{
   margin: 60px 0px 30px 0px;
 }
+
 

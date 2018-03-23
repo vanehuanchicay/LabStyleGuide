@@ -130,6 +130,7 @@ class Buttons extends Component {
       </div>
     )
   }
+
 }
 
 export default Buttons;
