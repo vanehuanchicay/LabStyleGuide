@@ -3,18 +3,18 @@
   font-family: 'lato';
 }
 
-.contain-button p{
+.contain-button p, .contain-footer p{
   font-size: 1.5em;
 }
 
-.contain-button h2{
+.contain-button h2, .contain-footer h2{
   font-weight: 600;
   display: inline-block;
   border-bottom: 3px solid #ffe521;
   padding-bottom: 0.6%;
 }
 
-.contain-btn h3, .contain-btn h4{
+.contain-btn h3, .contain-btn h4, .contain-cod h4{
   margin: 20px 0px 10px 0px;
 }
 
@@ -92,3 +92,26 @@ form{
   font-size: 118%;
   width: 150%;
 }
+
+.logo-footer{
+  width: 140px;
+  margin:30px 0px 15px 0px;
+}
+
+.footer{
+  background-color: #000;
+  color:#fff;
+  margin:20px 0px 30px 0px;
+}
+
+.footer p{
+  margin:0px;
+  display: inline-block; 
+  font-family: 'Open Sans'; 
+}
+
+.foo-cont{
+  margin: 60px 0px 30px 0px;
+}
+
+
