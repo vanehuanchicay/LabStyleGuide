@@ -3,18 +3,18 @@
   font-family: 'lato';
 }
 
-.contain-button p, .contain-footer p, .contain-text p, .contain-colors p{
+.contain-button p, .contain-footer p, .contain-text p, .contain-colors p, .contain-image p, .contain-card p{
   font-size: 1.5em;
 }
 
-.contain-button h2, .contain-footer h2, .contain-text h2, .contain-colors h2{
+.contain-button h2, .contain-footer h2, .contain-text h2, .contain-colors h2, .contain-image h2, .contain-card h2{
   font-weight: 600;
   display: inline-block;
   border-bottom: 3px solid #ffe521;
   padding-bottom: 0.6%;
 }
 
-.contain-btn h3, .contain-btn h4, .contain-cod h4, .contain-text h3, .contain-colors h3{
+.contain-btn h3, .contain-btn h4, .contain-cod h4, .contain-text h3, .contain-colors h3, .contain-image h3, .contain-card h3{
   margin: 20px 0px 10px 0px;
 }
 
@@ -106,8 +106,8 @@ form{
 
 .footer p{
   margin:0px;
-  display: inline-block; 
-  font-family: 'Open Sans'; 
+  display: inline-block;
+  font-family: 'Open Sans';
 }
 
 .foo-cont{
@@ -214,5 +214,146 @@ form{
 
 .menu-blank a:hover{
   color:#FFE521;
+}
+
+
+/* Estilos Ejemplos Imagenes */
+
+.images p {
+  font-size: 1.5em;
+}
+
+.contenedor {
+  border: 1px solid #b5b6ba;
+  padding: 10px;
+  margin: 4em 0em 3em 0em;
+}
+
+.imageResponsive-ex {
+  background: #bbbdbd;
+  height: 250px;
+  width: 100%;
+  display: block;
+}
+
+.imageThumbnail-ex {
+  background: #bbbdbd;
+  width: 200px;
+  height: 200px;
+  display: block;
+}
+
+.floatLeft-ex {
+  background: #bbbdbd;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+}
+
+.floatRight-ex {
+  background: #bbbdbd;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  margin-left: 160px;
+}
+
+.imageAuto-ex {
+  background: #bbbdbd;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 200px;
+  display: block;
+}
+
+/* Estilos Imagenes */
+
+.image-responsive {
+  height: auto;
+  width: 100%;
+  display: block;
+}
+
+.image-thumbnail {
+  width: 200px;
+  height: 200px;
+  display: block;
+}
+
+.float-left {
+  height: 200px;
+  width: 200px;
+  float: left;
+}
+
+.float-right {
+  height: 200px;
+  width: 200px;
+  float: right;
+}
+
+.image-auto {
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 200px;
+  display: block;
+}
+
+/* Estilos Card */
+
+.card-ex {
+  margin-left: auto;
+  margin-right: auto;
+  width: 25em;
+  padding-bottom: 50px;
+}
+
+.card-image-ex {
+  background: #d6d5d5;
+  height: 180px;
+  width: 100%;
+  display: block;
+}
+
+.card {
+  margin-left: auto;
+  margin-right: auto;
+  width: 25em;
+}
+
+.card-image {
+  height: 180px;
+  width: 100%;
+  display: block;
+}
+
+.card-body {
+  padding: 1.25em;
+  border: 1px solid #c7c9c6;
+  font-size: 1.1em;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+}
+
+.card-title {
+  margin-bottom: .75em;
+  font-size: 2em;
+}
+
+.card-title h5 {
+  margin-bottom: 1.25em;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.App-title{
+  background-color: #000;
+  padding: 2%;
+  text-align: center;
+  color: #fff;
 }
 
