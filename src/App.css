@@ -218,3 +218,9 @@ form{
   color:#FFE521;
 }
 
+.App-title{
+  background-color: #000;
+  padding: 2%;
+  text-align: center;
+  color: #fff;
+}
