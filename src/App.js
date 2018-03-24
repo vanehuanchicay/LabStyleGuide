@@ -27,7 +27,7 @@ class App extends Component {
         <Text></Text>
         <Colors></Colors>
         <Footer></Footer>
-
+        <button>https://github.com/ValePV/LabStyleGuide</button>
       </div>
     );
   }
