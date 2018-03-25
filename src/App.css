@@ -8,7 +8,7 @@
 }
 
 .contain-button h2, .contain-footer h2, .contain-text h2, .contain-colors h2, .contain-image h2, .contain-card h2{
-  font-weight: 600;
+  font-weight: 400;
   display: inline-block;
   border-bottom: 3px solid #ffe521;
   padding-bottom: 0.6%;
@@ -130,7 +130,6 @@ form{
   font-family: 'Open Sans';
   font-size: 12px;
 }
-
 .cont-black{
   width: 100px;
   height: 100px;
@@ -183,7 +182,6 @@ form{
   width: 120px;
   margin:18px 0px 8px 0px;
 }
-
 .menu li{
   list-style: none;
   display: inline-block;

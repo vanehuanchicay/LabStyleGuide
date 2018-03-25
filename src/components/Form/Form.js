@@ -85,7 +85,6 @@ class Form extends Component {
                     <div>
                   </div>     
                 </form>
-
                 </div>
               </div>
               <div className='row'>
@@ -95,7 +94,6 @@ class Form extends Component {
                     <pre>
                       <code className="language-html" data-lang="html">
                         <span className="code">&lt;form className='form_group'&gt;</span><br/>
-                        
                         <span className="code">&lt;/form'&gt;</span><br/>
 
                       </code>

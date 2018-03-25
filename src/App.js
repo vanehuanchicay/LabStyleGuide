@@ -30,6 +30,7 @@ class App extends Component {
         <Text></Text>
         <Colors></Colors>
         <Footer></Footer>
+
       </div>
     );
   }
