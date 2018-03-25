@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-=======
+
 PROYECTO: Styleguide de componentes en React
   v.1.0     
-=============================
 
 
 
@@ -25,8 +23,8 @@ Realizado por:
 
 
 **_DEMO DEL PRODUCTO_** 
--  https://  (Pages)
--  https:// (Github)
+-  https://whispering-fjord-92374.herokuapp.com/
+-  https://github.com/ValePV/LabStyleGuide
 -----------------------------------------------------
 
 
@@ -137,4 +135,4 @@ Logramos llegar a un MVP que fueron los cinco componentes más relevantes de la 
 
 
 
->>>>>>> af49cabbef637ef6994f3b94b26f2af5ff5c9d2c
+
