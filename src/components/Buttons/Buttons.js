@@ -32,7 +32,7 @@ class Buttons extends Component {
 
   render() {
     return (
-      <div className=' row '>
+      <div className=' row ' id=' button '>
         <div className='col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2 buttons'>
           <div className='row contain-button'>
             <div className='col-md-12 col-lg-12'>

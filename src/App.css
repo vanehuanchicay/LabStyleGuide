@@ -359,3 +359,8 @@ form{
   color: #fff;
 }
 
+.logo-github{
+  width: 30px;
+  z-index: 100;
+}
+

@@ -9,6 +9,7 @@ import Card from './components/Card/Card';
 import Footer from './components/Footer/Footer';
 
 import logolab from './images/logolab.png';
+import github from './images/github.png';
 
 import './App.css';
 
@@ -17,7 +18,8 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h3 className="App-title"><img className="logo-tittle" src={ logolab } alt="logo"/><br/>Style Guide</h3>
+          <h3 className="App-title"><img className="logo-tittle" src={ logolab } alt="logo"/><br/>Style Guide <br/><a href="https://github.com/ValePV/LabStyleGuide" target="_blank"><img className="logo-github" src={ github } alt="github"/></a></h3>
+          
         </header>
         <NavBar></NavBar>
         <Buttons></Buttons>
@@ -27,9 +29,6 @@ class App extends Component {
         <Text></Text>
         <Colors></Colors>
         <Footer></Footer>
-       
-
-
       </div>
     );
   }
