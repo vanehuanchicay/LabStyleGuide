@@ -21,6 +21,7 @@ class App extends Component {
           <h3 className="App-title"><img className="logo-tittle" src={ logolab } alt="logo"/><br/>Style Guide <br/><a href="https://github.com/ValePV/LabStyleGuide" target="_blank"><img className="logo-github" src={ github } alt="github"/></a></h3>
           
         </header>
+        
         <NavBar></NavBar>
         <Buttons></Buttons>
         <Form></Form>
