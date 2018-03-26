@@ -38,10 +38,5 @@ const Text = () => (
         </div>
       </div>
     </div>
-
-
-
-  
-  
 	)
 export default Text;
